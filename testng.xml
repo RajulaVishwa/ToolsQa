@@ -1,0 +1,12 @@
+
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="org.vedha.Testcase.TestBox"/>
+      <class name="org.vedha.Testcase.Checkbox"/>
+      <class name="org.vedha.Testcase.Radiobutton"/>
+      <class name="org.form.PractiseForm"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
